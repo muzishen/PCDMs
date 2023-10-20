@@ -58,8 +58,6 @@ class InceptionV3(nn.Module):
         self.blocks = nn.ModuleList()
 
         inception = models.inception_v3(pretrained=True)
-        # print(inception)
-        # inception =torch.load('/mnt/group-ai-medical-cq/private/feishen/weights/inception_v3_google-0cc3c7bd.pth')
         # Block 0: input to maxpool1
         block0 = [
             inception.Conv2d_1a_3x3,
