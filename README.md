@@ -76,3 +76,15 @@ We provide 3 stage checkpoints available [here](https://drive.google.com/drive/f
 Released the train and test code.
 
 
+## Citation
+If this work is useful to you, please consider citing our paper:
+```
+@article{shen2023advancing,
+  title={Advancing Pose-Guided Image Synthesis with Progressive Conditional Diffusion Models},
+  author={Shen, Fei and Ye, Hu and Zhang, Jun and Wang, Cong and Han, Xiao and Yang, Wei},
+  journal={arXiv preprint arXiv:2310.06313},
+  year={2023}
+}
+
+```
+
