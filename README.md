@@ -73,7 +73,7 @@ We provide 3 stage checkpoints available [here](https://drive.google.com/drive/f
 
 
 ## TO DO
-Released the train and test code.
+Released the train and test code at [this](https://github.com/tencent-ailab/PCDMs).
 
 
 ## Citation
